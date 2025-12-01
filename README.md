@@ -1,3 +1,4 @@
+# FCC Periodic Table Database
 # Element Query Script
 # Periodic Table Project
 # Periodic Table Project
